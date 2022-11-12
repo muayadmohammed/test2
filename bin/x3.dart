@@ -8,7 +8,7 @@ void main() {
   // String y = 'Omer';
   // print('Hello world: !');
 
-  var num = 0;
+  var num = 40;
 
   if (num > 0) {
     print("The number is positive");
